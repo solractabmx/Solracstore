@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Solrac Onion Browser",
+    "desc": "Navegador oficial rapido y ligero",
+    "descripcion_larga": "Solrac Onion Browser es un navegador basado en Tor con bloqueo de anuncios, modo oscuro y máxima privacidad. Ideal para navegar anónimo sin dejar rastro. Versión optimizada por Solrac VIP.",
+    "peso": "18.5 MB",
+    "version": "V1.0.0",
+    "icon": "logo.png",
+    "link": "https://github.com/solractabmx/SolracStore/releases/download/V1.0.0/SolracOnion.apk",
+    "capturas": [
+      "https://via.placeholder.com/300x600/ff00d4/fff?text=Captura+1",
+      "https://via.placeholder.com/300x600/7b2cff/fff?text=Captura+2",
+      "https://via.placeholder.com/300x600/00e5ff/fff?text=Captura+3"
+    ]
+  }
+]
